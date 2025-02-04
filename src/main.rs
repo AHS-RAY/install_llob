@@ -221,7 +221,7 @@ pub async fn github_proxy() -> Option<String> {
     let urls_to_test = [
         "https://kkgithub.com",
         "https://dgithub.xyz",
-        "https://gh.jiasu.in/https://github.com",
+        "https://gh-proxy.com/https://github.com",
         "https://github.com",
     ];
     let (tx, mut rx) = tokio::sync::mpsc::channel(urls_to_test.len() + 1);
