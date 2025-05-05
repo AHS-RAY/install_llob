@@ -1,3 +1,6 @@
+## 因近期账号冻结严重，请暂时停用此安装器
+## 使用llonebot提供的[一键包](https://github.com/LLOneBot/LLOneBot/releases)
+
 ## Introduction
 
 在windows上全自动安装 [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) 和 [LLOnebOT](https://github.com/LLOneBot/LLOneBot)。
